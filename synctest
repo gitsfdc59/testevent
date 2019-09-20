@@ -1,5 +1,0 @@
-Public Class{
-public static void method(){
-System.debug("I m during simple");
-}
-}
